@@ -5,6 +5,6 @@ Game installation:<br>
 <li><code>cd another_simple_snake_game</code></li>
 <li><code>make</code></li>
 </ol>
-Launch the game:
+Launch the game:<br>
 <code>make run</code></li>
 
