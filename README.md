@@ -7,5 +7,6 @@ Game installation:<br>
 </ol>
 Launch the game:<br>
 <code>make run</code></li>
-<br>
+
+
 ![example](https://raw.githubusercontent.com/un-ch/another_simple_snake_game/main/screenshot.png)
