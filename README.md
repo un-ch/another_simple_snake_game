@@ -7,7 +7,6 @@ Game installation:<br>
 </ol>
 Launch the game:<br>
 <code>make run</code></li>
-<br>
 ![example
 ](screenshot.png)
 
