@@ -10,3 +10,4 @@ Launch the game:<br>
 ![example
 ](screenshot.png)
 
+<img src=“https://raw.githubusercontent.com/un-ch/another_simple_snake_game/main/screenshot.png 702”>
