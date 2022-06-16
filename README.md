@@ -7,7 +7,5 @@ Game installation:<br>
 </ol>
 Launch the game:<br>
 <code>make run</code></li>
-![example
-](screenshot.png)
 
-<img src=“https://raw.githubusercontent.com/un-ch/another_simple_snake_game/main/screenshot.png 702”>
+![example](https://raw.githubusercontent.com/un-ch/another_simple_snake_game/main/screenshot.png)
